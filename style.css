@@ -1,0 +1,37 @@
+p{
+	font-weight: bold;
+}
+
+#s1.azul{
+	background-color: blue;
+}
+
+#s2.vermelho{
+	background-color: red;
+}
+
+#s3.verde{
+	background-color: green;
+}
+
+#s4.rosa{
+	background-color: pink;
+}
+
+/*CORPO*/
+
+#body.azul{
+	background-color: blue;
+}
+
+#body.vermelho{
+	background-color: red;
+}
+
+#body.verde{
+	background-color: green;
+}
+
+#body.rosa{
+	background-color: pink;
+}
